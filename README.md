@@ -1,5 +1,9 @@
-Hi there 👋, I am Front-End developer from Ukraine, with 5+ years experience in this field and 8+ years of experience as a Software Developer specializing in UI development, Content Management Systems(CMS), and in the areas including Internet/Intranet technology, client/server, and multitier applications.
+Hello! 👋
 
-I work with my clients, efficiently, clearly defining their needs and it’s a primary goal of mine to manage expectations. I do not up-sell my clients on frivolous things, I do not take on work that I do not fully understand and I make it a priority to make sure that anyone I work with will know what they are going to get.
+I’m a Front-End Developer from Ukraine with over 5 years of experience in front-end development and 8+ years as a Software Developer. I specialize in creating intuitive user interfaces, developing Content Management Systems (CMS), and building scalable web applications across various platforms, including Internet/Intranet and client-server environments.
 
-Looking for a long-term, full-time project! Feel free to contact me if you need my help!
+My approach is client-focused: I prioritize understanding your needs and delivering solutions that meet expectations without unnecessary upsells or commitments beyond my expertise. Clear communication and transparency are essential to my work, ensuring you always know what to expect.
+
+I’m currently seeking long-term, full-time projects and would love to help bring your vision to life. Let’s collaborate!
+
+Feel free to reach out!
